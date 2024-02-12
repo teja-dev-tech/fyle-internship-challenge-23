@@ -1,3 +1,6 @@
+## Added Working Solution of Angular App in "MySolution" Branch
+
+
 # Fyle Frontend Challenge
 
 ## Who is this for?
